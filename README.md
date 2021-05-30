@@ -1,0 +1,1 @@
+# redimencionar-texto-em-imagem-python
